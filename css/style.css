@@ -1,0 +1,66 @@
+img{ height:50px;
+    width: 50px;
+
+}
+body{
+    background-image: url(/image/laptop.png);
+    color:white;
+}
+
+.logo{
+    display:inline-flex;
+    
+}
+.nav{
+   
+    float: right;
+    display: flex;
+    padding-right:30px;
+    padding-top: 10px;
+    
+
+    
+    
+}
+a{
+    text-decoration: none;
+    color: navajowhite;
+}
+li{
+    list-style-type: none;
+   
+    
+}
+.section_parents{
+ 
+    text-align: center;
+}
+.section_sibling{
+    text-align: center;
+    
+}
+.section_child{
+    
+    
+
+   
+    display:inline-flex;
+
+    
+    
+}
+.colom{
+    
+    margin: 10px;
+    padding: 10px;
+    background-color: salmon;
+   
+    
+    
+}
+:hover.colom{
+    background-color: aquamarine;
+    color: salmon;
+    
+}
+
